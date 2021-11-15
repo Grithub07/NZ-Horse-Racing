@@ -1,0 +1,20 @@
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\bin\Debug\NZ Horse Racing.exe.config
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\bin\Debug\NZ Horse Racing.exe
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\bin\Debug\NZ Horse Racing.pdb
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ Horse Racing.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.AddCustomerForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.AddOwnerForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.DataController.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.DeleteCustomerForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.DeleteOwnerForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.MainForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.ProduceCustomerReportForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.ProduceOwnerReportForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.Properties.Resources.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.UpdateCustomerForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.UpdateOwnerForm.resources
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ Horse Racing.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ Horse Racing.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ Horse Racing.exe
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ Horse Racing.pdb
+C:\Users\willi\source\repos\NZ Horse Racing\NZ Horse Racing\obj\Debug\NZ_Horse_Racing.LoginForm.resources
